@@ -1,2 +1,2 @@
 # proejct-1
-projet de preuve 
+ce projet est une demontration de base pour git 
